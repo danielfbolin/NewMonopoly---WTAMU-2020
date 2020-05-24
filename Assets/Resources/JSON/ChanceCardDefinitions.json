@@ -1,0 +1,16 @@
+{"id": 0, "cardType": "chance", "description": "Advance to \"Go\". (Collect $200)", "actionType": "advance", "toTile": "Go", "toTileType": null, "amount": null}
+{"id": 1, "cardType": "chance", "description": "Advance to Illinois Avenue. If you pass Go, collect $200.", "actionType": "advance", "toTile": "Illinois Avenue", "toTileType": null, "amount": null}
+{"id": 2, "cardType": "chance", "description": "Advance to St. Charles Place. If you pass Go, collect $200.", "actionType": "advance", "toTile": "St. Charles Place", "toTileType": null, "amount": null}
+{"id": 3, "cardType": "chance", "description": "Advance token to nearest Utility. If unowned, you may buy it from the Bank. If owned, throw dice and pay owner a total 10 times the amount thrown.", "actionType": "advance", "toTile": null, "toTileType": "utility", "amount": null}
+{"id": 4, "cardType": "chance", "description": "Advance token to the nearest Railroad and pay owner twice the rental to which he/she is otherwise entitled. If Railroad is unowned, you may buy it from the Bank.", "actionType": "advance", "toTile": null, "toTileType": "railroad", "amount": null}
+{"id": 5, "cardType": "chance", "description": "Advance token to the nearest Railroad and pay owner twice the rental to which he/she is otherwise entitled. If Railroad is unowned, you may buy it from the Bank.", "actionType": "advance", "toTile": null, "toTileType": "railroad", "amount": null}
+{"id": 6, "cardType": "chance", "description": "Bank pays you dividend of $50.", "actionType": "collect", "toTile": null, "toTileType": "railroad", "amount": 50}
+{"id": 7, "cardType": "chance", "description": "Get out of Jail Free. This card may be kept until needed, or traded/sold.", "actionType": "jailPass", "toTile": null, "toTileType": null, "amount": null}
+{"id": 8, "cardType": "chance", "description": "Go Back Three Spaces.", "actionType": "backThree", "toTile": null, "toTileType": null, "amount": null}
+{"id": 9, "cardType": "chance", "description": "Go to Jail. Go directly to Jail. Do not pass GO, do not collect $200.", "actionType": "goToJail", "toTile": "Jail", "toTileType": null, "amount": null}
+{"id": 10, "cardType": "chance", "description": "Make general repairs on all your property: For each house pay $25, For each hotel pay $100.", "actionType": "payRepairs", "toTile": null, "toTileType": null, "amount": null}
+{"id": 11, "cardType": "chance", "description": "Speeding Fine $15.", "actionType": "payment", "toTile": null, "toTileType": null, "amount": 15}
+{"id": 12, "cardType": "chance", "description": "Take a trip to Reading Railroad. If you pass Go, collect $200.", "actionType": "advance", "toTile": "Reading Railroad", "toTileType": null, "amount": null}
+{"id": 13, "cardType": "chance", "description": "Take a walk on the Boardwalk. Advance token to Boardwalk.", "actionType": "advance", "toTile": "Boardwalk", "toTileType": null, "amount": null}
+{"id": 14, "cardType": "chance", "description": "You have been elected Chairman of the Board. Pay each player $50.", "actionType": "payPlayers", "toTile": null, "toTileType": null, "amount": 50}
+{"id": 15, "cardType": "chance", "description": "Your building and loan matures. Collect $150.", "actionType": "collect", "toTile": null, "toTileType": null, "amount": 150}
